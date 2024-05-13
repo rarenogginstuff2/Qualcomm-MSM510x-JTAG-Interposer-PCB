@@ -2,6 +2,6 @@ This interposer PCB can be used to add JTAG to any Qualcomm MSM5100, MSM5105, MS
 
 ![alt text](https://github.com/rarenogginstuff2/Qualcomm-MSM510x-JTAG-Interposer-PCB/blob/main/MSM5100%20JTAG%20Interposer%202024.png?raw=true)
 
-![alt text](https://github.com/rarenogginstuff2/Qualcomm-MSM510x-JTAG-Interposer-PCB/blob/main/MSM5100%20Elevator.png?raw=true)4
+![alt text](https://github.com/rarenogginstuff2/Qualcomm-MSM510x-JTAG-Interposer-PCB/blob/main/MSM5100%20Elevator.png?raw=true)
 
 ![alt text](https://github.com/rarenogginstuff2/Qualcomm-MSM510x-JTAG-Interposer-PCB/blob/main/MSM5100%20JTAG%20Final%20Rotated%202024.png?raw=true)
